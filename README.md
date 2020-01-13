@@ -62,7 +62,6 @@ Dopo aver installato l'app, avrete la possibilità di effettuare il login con un
 
 <p align="center">
   <img src="https://docs.blockstream.com/_images/landing.png" width="250" />
-  </br>
   <i>Fonte: <a href="https://docs.blockstream.com/green/getting-started/getting-started-index.html" target="_blank">Bloackstream Docs</a></i>
 </p>
 
@@ -70,7 +69,6 @@ A questo punto, l'app genererà un mnemonico di 24 parole per funzionare come me
 
 <p align="center">
   <img src="https://docs.blockstream.com/_images/menmonic-warning.png" width="250" />
-    </br>
   <i>Fonte: <a href="https://docs.blockstream.com/green/getting-started/getting-started-index.html" target="_blank">Bloackstream Docs</a></i>
 </p>
 
@@ -82,7 +80,6 @@ Per garantire una registrazione sicura del vostro mnemonico, vi verrà richiesto
 
 <p align="center">
   <img src="https://docs.blockstream.com/_images/mnemonic-quiz.png" width="250" />
-    </br>
   <i>Fonte: <a href="https://docs.blockstream.com/green/getting-started/getting-started-index.html" target="_blank">Bloackstream Docs</a></i>
 </p>
 
