@@ -1,34 +1,40 @@
-###### Guiding Principles
-- Starting simply and improving is better than than not starting at all
-- It's more engaging to use tools before reading a detailed explanation
-- Always keep full control of your bitcoin (use non-custodial tools)
-- Stay focused and avoid scams (use bitcoin-only tools & services)
+# Intro
 
-
-
-| Step | Description                                    |Done|
-| ---- | -----------                                    |---|
-| 0. | Setup                                            |   |
-| 1. | Get a Wallet                                     |   |
-| 2. | Buy some bitcoin                                 |   |
-| 3. | Why use bitcoin?                                 |   |
-| 4. | What is bitcoin?                                 |   |
-| 5. | Further Learning                                 |   |
-| 6. | Better Backup                                    |   |
-| 7. | Running a Node                                   |   |
-| 8. | Joining In                                       |   |
-| 9. | Bitcoin Privacy                                  |   |
-| 10. | Bitcoin MicroPayments (Lightning)               |   |
-| 11. | Technical Details                               |   |
-| 12. | Buying privately                                |   |
-
------
-
-## Step 0. Setup
+I principi che segue questa guida sono:
+- Iniziare semplicemente e poi migliorare è meglio che non iniziare affatto
+- È più coinvolgente utilizzare gli strumenti prima di leggere una spiegazione dettagliata
+- Mantenete sempre il pieno controllo dei vostri bitcoin (usate strumenti non-custodial)
+- Rimaneti concentrato ed evita le truffe
 
 | I have a printer | I don't have a printer |
 | --- | --- |
 | Print <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/bitcoin-intro.pdf" target="_blank">this PDF</a> & Track your progress by ticking off steps in the `Done` column. | Save <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/bitcoin-intro.pdf" target="_blank">this PDF</a> to your desktop & Track your progress by renaming the PDF to include the next Lesson Number (e.g. `bitcoin-intro_Lesson2.pdf`) |
+
+-----
+
+| Step | Description                                    |Done|
+| ---- | -----------                                    |----|
+| **LV. 0**| **Curiosone**                                      |    |
+| 0.1  | Che cos'è bitcoin?                             |    |
+| 0.2  | Perché usare bitcoin?                          |    |
+| **LV. 1**| **Apprendista**                                    |    |
+| 1.1  | Il mio primo portafoglio                       |    |
+| 1.2  | Comprare dei bitcoin                           |    |
+| **LV. 2**| **Mago**                                           |    |
+| 2.1  | Un backup migliore                             |    |
+| 2.2  | Comprare in modo privato                       |    |
+| 2.3  | Bitcoin Privacy                                |    |
+| **LV. 3**| **Stregone**                                       |    |
+| 3.1  | Dettagli Tecnici                               |    |
+| 3.2  | Nodo bitcoin                                   |    |
+| 3.3  | Bitcoin MicroPagamenti (Lightning)             |    |
+| 3.4  | Eventi ed incontri                             |    |
+| 3.5  | Ulteriori approfondimenti                      |    |
+
+-----
+
+# LV. 0 - Curiosone
+Conosco poco o niente di Bitcoin e vorrei saperne di più
 
 -----
 
