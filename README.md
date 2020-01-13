@@ -35,7 +35,7 @@ Conosco poco o niente di Bitcoin e vorrei saperne di più
 
 
 
-## 0.1 - Che cos'è Bitcoin? [Base]
+## 0.1 - Che cos'è Bitcoin?
 *Obbiettivo: Imparare che cos'è Bitcoin*
 
 
