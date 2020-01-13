@@ -4,28 +4,24 @@ I principi che segue questa guida sono:
 - Iniziare semplicemente e poi migliorare è meglio che non iniziare affatto
 - È più coinvolgente utilizzare gli strumenti prima di leggere una spiegazione dettagliata
 - Mantenete sempre il pieno controllo dei vostri bitcoin (usate strumenti non-custodial)
-- Rimaneti concentrato ed evita le truffe
-
-| I have a printer | I don't have a printer |
-| --- | --- |
-| Print <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/bitcoin-intro.pdf" target="_blank">this PDF</a> & Track your progress by ticking off steps in the `Done` column. | Save <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/bitcoin-intro.pdf" target="_blank">this PDF</a> to your desktop & Track your progress by renaming the PDF to include the next Lesson Number (e.g. `bitcoin-intro_Lesson2.pdf`) |
+- Rimaneti concentrato ed evita le truffe 
 
 -----
 
-| Step | Description                                    |Done|
+| Step | Descrizione                                    |Progressi|
 | ---- | -----------                                    |----|
 | **LV. 0**| **Studioso**                               |    |
 | 0.1  | Che cos'è Bitcoin?                             |    |
 | 0.2  | Perché usare bitcoin?                          |    |
 | **LV. 1**| **Apprendista**                            |    |
-| 1.1  | Prendere un Wallet                             |    |
+| 1.1  | Ottenere un Wallet                             |    |
 | 1.2  | Comprare dei bitcoin                           |    |
 | **LV. 2**| **Mago**                                   |    |
 | 2.1  | Un migliore Backup                             |    |
 | 2.2  | Comprare in modo privato                       |    |
 | 2.3  | Bitcoin Privacy                                |    |
 | **LV. 3**| **Stregone**                               |    |
-| 3.1  | Dettagli Tecnici                               |    |
+| 3.1  | Come funziona bitcoin?                         |    |
 | 3.2  | Nodo bitcoin                                   |    |
 | 3.3  | MicroPagamenti Bitcoin: Lightning Network      |    |
 | 3.4  | Eventi ed incontri                             |    |
@@ -39,7 +35,7 @@ Conosco poco o niente di Bitcoin e vorrei saperne di più
 
 
 
-## 0.1 - Che cos'è Bitcoin?
+## 0.1 - Che cos'è Bitcoin? [Base]
 *Obbiettivo: Imparare che cos'è Bitcoin*
 
 
@@ -57,14 +53,40 @@ Sono uno *studioso* del mondo di bitcoin ed ora vorrei iniziare ad usarlo
 
 
 
-## 1.1 - Prendere un Wallet
+## 1.1 - Ottenere un Wallet
 *Obbiettivo: Ottenere un portafoglio dove tenere i Bitcoin ed imparare ad utilizzarlo.*
 
-1.	Download <a href="https://blockstream.com/green/" target="_blank">Blockstream Green wallet</a>.
-2.	Make a new wallet and write down the 24 words presented to you. These 24 words act as a key to access your bitcoin.
-3.  Make another copy of these words and put them both somewhere hidden/safe in your house.
-4.	In green wallet, click receive and copy the address shown on screen, this can be done by clicking on the QR code.
+Scaricare <a href="https://blockstream.com/green/" target="_blank">Blockstream Green wallet</a>.
 
+Dopo aver installato l'app, avrete la possibilità di effettuare il login con un mnemonico esistente, oppure di creare un nuovo portafoglio. Per iniziare, cliccate su `Crea nuovo portafoglio`.
+
+<p align="center">
+  <img src="https://docs.blockstream.com/_images/landing.png" width="250" />
+  </br>
+  <i>Fonte: <a href="https://docs.blockstream.com/green/getting-started/getting-started-index.html" target="_blank">Bloackstream Docs</a></i>
+</p>
+
+A questo punto, l'app genererà un mnemonico di 24 parole per funzionare come metodo di login di backup per il vostro portafoglio.
+
+<p align="center">
+  <img src="https://docs.blockstream.com/_images/menmonic-warning.png" width="250" />
+    </br>
+  <i>Fonte: <a href="https://docs.blockstream.com/green/getting-started/getting-started-index.html" target="_blank">Bloackstream Docs</a></i>
+</p>
+
+> **ATTENZIONE**
+> Il tuo mnemonico è l'informazione più importante associata al tuo portafoglio.
+> Devi scriverlo in un posto sicuro e segreto - è il tuo backup.
+
+Per garantire una registrazione sicura del vostro mnemonico, vi verrà richiesto di reinserire diverse parole nell'ordine corretto.
+
+<p align="center">
+  <img src="https://docs.blockstream.com/_images/mnemonic-quiz.png" width="250" />
+    </br>
+  <i>Fonte: <a href="https://docs.blockstream.com/green/getting-started/getting-started-index.html" target="_blank">Bloackstream Docs</a></i>
+</p>
+
+Complimenti, ora sei pronto a ricere dei bitcoin ;)
 
 ## 1.2 - Comprare dei bitcoin
 *Obbiettivo: Comprare una piccola quantità di bitcoin.*
@@ -141,7 +163,7 @@ Sono un *mago* del mondo bitcoin ed ora vorrei imparare tecnicismi, aiutare e pa
 
 
 
-## 3.1 - Dettagli tecnici
+## 3.1 - Come funziona bitcoin?
 *Obbiettivo: Capire meglio come funziona bitcoin e la sua terminologia.*
 
 1. Watch <a href="https://www.youtube-nocookie.com/embed/bBC-nXj3Ng4" target="_blank">But How does bitcoin actually work</a>
