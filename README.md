@@ -93,13 +93,17 @@ Per ricevere Bitcoin, tutto quello che dovete fare è fornire un indirizzo di ri
   <summary><i>Nota sugli indirizzi bitcoin</i></summary>
 <br>
 Un indirizzo di ricezione Bitcoin è una stringa di numeri e lettere. È possibile creare un indirizzo di ricezione selezionando "Receive" dalla schermata principale. Il vostro portafoglio genererà un nuovo indirizzo di ricezione ogni volta che lo richiederete. Anche se è possibile riutilizzare i vecchi indirizzi, è vivamente sconsigliato perché riduce la tua privacy.
-
+  <br>
+  <br>
 Una volta che potrai vedere qual è il tuo nuovo indirizzo, dovrai comunicarlo al mittente. Se hai bisogno di comunicarlo a distanza, un messaggio di testo o un'e-mail è un modo efficace per farlo.
-
+  <br>
+  <br>
 Se sei fisicamente accanto alla persona che ti invierà Bitcoin, un'altra opzione è quella di utilizzare il codice QR, che il mittente può scansionare per ottenere l'indirizzo di ricezione. Questo è davvero conveniente se il mittente utilizza un Wallet mobile.
-
+  <br>
+  <br>
 Una volta che qualcuno ha inviato una transazione al tuo Blockstream Green wallet, dovrebbe apparire nella tua pagina della lista delle transazioni. All'inizio, sarà etichettato come "non confermato". A questo punto, non si dovrebbe considerare che i bitcoin siano stati ricevute, perché la transazione potrebbe comunque essere sovrascritta o annullata. La transazione accumulerà nel tempo "conferme" man mano che verranno estratti nuovi blocchi nella rete Bitcoin. Una volta che la transazione raggiunge le 6 conferme, il vostro portafoglio la elencherà come "confermata" e potrete considerare le monete ricevute.
-<br>
+  <br>
+  <br>
 </details> 
 
 ## 1.2 - Comprare dei bitcoin
