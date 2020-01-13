@@ -49,27 +49,28 @@ Conosco poco o niente di Bitcoin e vorrei saperne di più
 -----
 
 # LV. 1 - Apprendista
-Sono uno *studioso* del mondo di bitcoin ed ora vorrei iniziare ad usarlo
+Sono uno [studioso](#lv-0---studioso) del mondo di bitcoin ed ora vorrei iniziare ad usarlo
 
 
 
 ## 1.1 - Ottenere un Wallet
 *Obbiettivo: Ottenere un portafoglio dove tenere i Bitcoin ed imparare ad utilizzarlo.*
 
-Scaricare <a href="https://blockstream.com/green/" target="_blank">Blockstream Green wallet</a>.
+> **ATTENZIONE**
+> La fonte dei contenuti e delle immagini di questa sezione è la <a href="https://docs.blockstream.com/green/getting-started/getting-started-index.html" target="_blank">documentazione ufficiale</a> di <a href="https://blockstream.com/green/" target="_blank">Blockstream Green wallet</a>
+
+Il portafoglio che andremo ad utilizzare si chiama <a href="https://blockstream.com/green/" target="_blank">Blockstream Green wallet</a> ed è possibile scaricarlo sia per <a href="https://blockstream.green/android" target="_blank">Android</a> che per <a href="https://blockstream.green/ios" target="_blank">IOS</a>.
 
 Dopo aver installato l'app, avrete la possibilità di effettuare il login con un mnemonico esistente, oppure di creare un nuovo portafoglio. Per iniziare, cliccate su `Crea nuovo portafoglio`.
 
 <p align="center">
   <img src="https://docs.blockstream.com/_images/landing.png" width="250" />
-  <i>Fonte: <a href="https://docs.blockstream.com/green/getting-started/getting-started-index.html" target="_blank">Bloackstream Docs</a></i>
 </p>
 
 A questo punto, l'app genererà un mnemonico di 24 parole per funzionare come metodo di login di backup per il vostro portafoglio.
 
 <p align="center">
   <img src="https://docs.blockstream.com/_images/menmonic-warning.png" width="250" />
-  <i>Fonte: <a href="https://docs.blockstream.com/green/getting-started/getting-started-index.html" target="_blank">Bloackstream Docs</a></i>
 </p>
 
 > **ATTENZIONE**
@@ -80,33 +81,51 @@ Per garantire una registrazione sicura del vostro mnemonico, vi verrà richiesto
 
 <p align="center">
   <img src="https://docs.blockstream.com/_images/mnemonic-quiz.png" width="250" />
-  <i>Fonte: <a href="https://docs.blockstream.com/green/getting-started/getting-started-index.html" target="_blank">Bloackstream Docs</a></i>
 </p>
 
-Complimenti, ora sei pronto a ricere dei bitcoin ;)
+Per ricevere Bitcoin, tutto quello che dovete fare è fornire un indirizzo di ricezione al mittente.
+
+<p align="center">
+  <img src="https://docs.blockstream.com/_images/receive.png" width="250" />
+</p>
+
+<details>
+  <summary><i>Nota sugli indirizzi bitcoin</i></summary>
+<br>
+Un indirizzo di ricezione Bitcoin è una stringa di numeri e lettere. È possibile creare un indirizzo di ricezione selezionando "Receive" dalla schermata principale. Il vostro portafoglio genererà un nuovo indirizzo di ricezione ogni volta che lo richiederete. Anche se è possibile riutilizzare i vecchi indirizzi, è vivamente sconsigliato perché riduce la tua privacy.
+
+Una volta che potrai vedere qual è il tuo nuovo indirizzo, dovrai comunicarlo al mittente. Se hai bisogno di comunicarlo a distanza, un messaggio di testo o un'e-mail è un modo efficace per farlo.
+
+Se sei fisicamente accanto alla persona che ti invierà Bitcoin, un'altra opzione è quella di utilizzare il codice QR, che il mittente può scansionare per ottenere l'indirizzo di ricezione. Questo è davvero conveniente se il mittente utilizza un Wallet mobile.
+
+Una volta che qualcuno ha inviato una transazione al tuo Blockstream Green wallet, dovrebbe apparire nella tua pagina della lista delle transazioni. All'inizio, sarà etichettato come "non confermato". A questo punto, non si dovrebbe considerare che i bitcoin siano stati ricevute, perché la transazione potrebbe comunque essere sovrascritta o annullata. La transazione accumulerà nel tempo "conferme" man mano che verranno estratti nuovi blocchi nella rete Bitcoin. Una volta che la transazione raggiunge le 6 conferme, il vostro portafoglio la elencherà come "confermata" e potrete considerare le monete ricevute.
+<br>
+</details> 
 
 ## 1.2 - Comprare dei bitcoin
 *Obbiettivo: Comprare una piccola quantità di bitcoin.*
 
-- Only buy a small amount of bitcoin to start (in a later step we will improve your backup redundancy).
-- These recommendations let you buy bitcoin quickly at the cost of reduced privacy.
-- Buying Privately is detailed in a <a href="#step-12-buying=privately" target="_blank">later step.</a>
+> **ATTENZIONE**
+> Per iniziare si consiglia di comprare solo una piccola quantità di bitcoin.
+> Il metodo che tra poco verrà mostrato ti permetterà di comprare bitcoin velocemente ma ridurrà la tua privacy.
+> Per comprare bitcoin in modo privato verranno inlustrati metodi alternativi nella sezione <a href="#22---comprare-in-modo-privato">2.2</a>.
 
-### EU (Bittr - 1.5% Fee)
-0.  Check bittr on <a href="https://www.trustpilot.com/review/getbittr.com" target="_blank">Trustpilot</a>
-1.	Go to <a href="https://getbittr.com/save-bitcoin" target="_blank">Bittr</a>.
-2.	Enter your email & phone number
-3.	Paste your first bitcoin address from Step 1
-4.  Copy the reference and send 25 EUR from your personal bank account to the bank details provided via SEPA
-5.	Wait for the funds to appear in green wallet (< 24 hrs). 
+Il metodo migliore per comprare bitcoin nell'Unione Europea è tramite <a href="https://getbittr.com/" target="_blank">Bittr</a>: Bittr ha delle fee dello **1.5%** ed è possibile leggere delle recensioni del servizio offerto, in inglese, su <a href="https://www.trustpilot.com/review/getbittr.com" target="_blank">Trustpilot</a>.
 
+Per comprare su Bittr:
+1.	Vai su <a href="https://getbittr.com/save-bitcoin" target="_blank">Bittr</a>.
+2.	Immetti la tua email ed il tuo numero di telefono.
+3.	Incolla il tuo indirizzo bitcoin (come mostrato nella sezione <a href="#11---ottenere-un-wallet">1.1</a>).
+4.  Copia la  reference ed invia minimo 25€ dal tuo conto corrente bancario al conto corrente mostrato.
+5.	Aspetta che i tuoi bitcoin compaiano in Green Wallet (< 24 hrs). 
 
-Congrats you now officially hold some BTC. As long as you keep those 24 words safe nobody can steal the funds from the wallet you have created. Without these words (known as your seed words or your private key) nobody can access your bitcoin wallet.
+Confratulazioni, ora possiedi ufficialmente dei bitcoin!
+Fintanto che terrai quelle 24 parole al sicuro, nessuno potrà rubarti i tuoi bitcoin dal Wallet che hai creato poiché senza quelle 24 parole nessuno potrà accedere ai tuoi bitcoin.
 
 -----
 
 # LV. 2 - Mago
-Sono un *apprendista* del mondo di bitcoin ed ora vorrei sapere come migliorare la mia privacy e salvaguardarmi meglio
+Sono un [apprendista](#lv-1---apprendista) del mondo di bitcoin ed ora vorrei sapere come migliorare la mia privacy e salvaguardarmi meglio
 
 
 
@@ -156,7 +175,7 @@ Though the methods explained in Step 2 are simple and easy for buying your first
 -----
 
 # LV. 3 - Stregone
-Sono un *mago* del mondo bitcoin ed ora vorrei imparare tecnicismi, aiutare e partecipare nella community
+Sono un [mago](#lv-2---mago) del mondo bitcoin ed ora vorrei imparare tecnicismi, aiutare e partecipare nella community
 
 
 
@@ -228,7 +247,7 @@ Note: Running a node only benefits you if you use your node to send and receive 
 -----
 
 # LV. 4 - Saggio
-Sono uno *stregone* del mondo bitcoin e vorrei sviluppare ulteriormente la mia conoscenza attingendo dalle migliori fonti del sapere
+Sono uno [stregone](#lv-3---stregone) del mondo bitcoin e vorrei sviluppare ulteriormente la mia conoscenza attingendo dalle migliori fonti del sapere
 
 ## 3.5 - Ulteriori approfondimenti [ENG]
 *Obbiettivo: Sviluppare ulteriormente la tua conoscenza di bitcoin*
