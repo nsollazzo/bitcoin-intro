@@ -54,7 +54,7 @@ I principi che segue questa guida sono:
 
 
 ## 1.1 - Ottenere un Wallet
-> *Obbiettivo: Ottenere un portafoglio dove tenere i Bitcoin ed imparare ad utilizzarlo.*
+> **OBIETTIVO**: Ottenere un portafoglio dove tenere i Bitcoin ed imparare ad utilizzarlo.
 
 > **ATTENZIONE**:
 > La fonte dei contenuti e delle immagini di questa sezione è la <a href="https://docs.blockstream.com/green/getting-started/getting-started-index.html" target="_blank">documentazione ufficiale</a> di <a href="https://blockstream.com/green/" target="_blank">Blockstream Green wallet</a>
@@ -107,7 +107,7 @@ Una volta che qualcuno ha inviato una transazione al tuo Blockstream Green walle
 </details> 
 
 ## 1.2 - Comprare dei bitcoin
-> *Obbiettivo: Comprare una piccola quantità di bitcoin.*
+> **OBIETTIVO**: Comprare una piccola quantità di bitcoin.
 
 > **ATTENZIONE**:
 > Per iniziare si consiglia di comprare solo una piccola quantità di bitcoin.
@@ -119,7 +119,7 @@ Il metodo migliore per comprare bitcoin nell'Unione Europea è tramite <a href="
 Per comprare su Bittr:
 1.	Vai su <a href="https://getbittr.com/save-bitcoin" target="_blank">Bittr</a>.
 2.	Immetti la tua email ed il tuo numero di telefono.
-3.	Incolla il tuo indirizzo bitcoin (come mostrato nella sezione <a href="#11---ottenere-un-wallet">1.1</a>).
+3.	Incolla il tuo indirizzo bitcoin (ottenuto nella [sezione 1.1](#11---ottenere-un-wallet)).
 4.  Copia la  reference ed invia minimo 25€ dal tuo conto corrente bancario al conto corrente mostrato.
 5.	Aspetta che i tuoi bitcoin compaiano in Green Wallet (< 24 hrs). 
 
@@ -134,7 +134,7 @@ Fintanto che terrai quelle 24 parole al sicuro, nessuno potrà rubarti i tuoi bi
 
 
 ## 2.1 - Un migliore Backup
-> *Obbiettivo: Migliorare il tuo sistema di backup in modo da essere pronto quando il valore di bitcoin aumenterà o deciderai di comprarne di più.*
+> **OBIETTIVO**: Migliorare il tuo sistema di backup in modo da essere pronto quando il valore di bitcoin aumenterà o deciderai di comprarne di più.
 
 1. Read the <a href="https://github.com/6102bitcoin/FAQ/blob/master/seed.md" target="_blank">Seed FAQ</a>
 2. Pick a setup (e.g. Two full backups, one on paper one on stamped metal)
@@ -145,7 +145,7 @@ Anche se i metodi spiegati nella [sezione 1.2](#12---comprare-dei-bitcoin) sono 
 
 ### Overview table
 | Metodo di Pagamento | Privacy      | Interfaccia | Email/Telefono    | Nome/Indirizzo    | Esempi          |
-| ------------------- | ------------ | ----------- | ----------------- | ----------------- | --------------- |
+| ---                 | ---          | ---         | ---               | ---               | ---             |
 | Contanti            | Privato      | Di persona  | **Non richiesto** | **Non richiesto** | BISQ / Vouchers |
 | Bonifico            | Semi-privato | Sito Web    | Richiesto         | **Non richiesto** | Bittr           |
 | Carta di debito     | Non-privato  | Sito Web    | Richiesto         | Richiesto         | Coinbase        |
@@ -164,11 +164,11 @@ Per lo scopo di questa sezione ci concentreremo su due metodo: BISQ e Vouchers
 #### Vouchers
 0. Controlla se ci sono commercianti vicino a te che vendono vouchers su <a href="https://azte.co/vendors.html" target="_blank">Azteco</a> o <a href="https://fastbitcoins.com/#locations" target="_blank">FastBitcoins</a>
 1. Se ce ne sono, acquista il taglio minimo del buono e segui le istruzioni del buono per riscattare il bitcoin nel tuo portafoglio.
-2. Ritira i tuoi bitcoin sul tuo indirizzo bitcoin ([sezione 1.1](#11---ottenere-un-wallet)
+2. Ritira i tuoi bitcoin sul tuo indirizzo bitcoin ([sezione 1.1](#11---ottenere-un-wallet))
 
 
 ## 2.3 - Bitcoin privacy
-> *Obbiettivo: Capire come e perché usare bitcoin in modo privato.*
+> **OBIETTIVO**: Capire come e perché usare bitcoin in modo privato.
 
 1. Read how to <a href="https://github.com/6102bitcoin/FAQ/blob/master/hodl-privacy.md" target="_blank">Hodl Privately</a>
 2. Learn about <a href="https://github.com/6102bitcoin/CoinJoin-Research/blob/master/CoinJoin_Research/CoinJoin_FAQ.md" target="_blank">CoinJoin</a>
@@ -181,19 +181,19 @@ Per lo scopo di questa sezione ci concentreremo su due metodo: BISQ e Vouchers
 
 
 ## 3.1 - Come funziona bitcoin?
-> *Obbiettivo: Capire meglio come funziona bitcoin e la sua terminologia.*
+> **OBIETTIVO**: Capire meglio come funziona bitcoin e la sua terminologia.
 
-1. Watch <a href="https://www.youtube-nocookie.com/embed/bBC-nXj3Ng4" target="_blank">But How does bitcoin actually work</a>
-2. Watch <a href="https://www.youtube-nocookie.com/embed/Lx9zgZCMqXE" target="_blank">How Bitcoin Works Under the Hood</a>
+1. Guarda <a href="https://www.youtube-nocookie.com/embed/bBC-nXj3Ng4" target="_blank">But How does bitcoin actually work</a>
+2. Guarda <a href="https://www.youtube-nocookie.com/embed/Lx9zgZCMqXE" target="_blank">How Bitcoin Works Under the Hood</a>
 
 
 # 3.2 - Nodo Bitcoin
-> *Obbliettivo: Capire come e perché avere un proprio full-node bitcoin.*
+> **OBIETTIVO**: Capire come e perché avere un proprio full-node bitcoin.
 
 > **NOTA**: Avere un nodo bitcoin ti porta beneficio se lo usi per inviare e ricevere transazioni.
 > Non usarlo aiuterà a salvare la blockchain su un device in più ma non ti porterà diretti benefici.
 
-1. Watch <a href="https://www.youtube-nocookie.com/embed/D11R0W2uxeM" target="_blank">Benefits of a Full Node</a>
+1. Guarda <a href="https://www.youtube-nocookie.com/embed/D11R0W2uxeM" target="_blank">Benefits of a Full Node</a>
 2. Valutare le tabelle sottostanti per determinare quale opzione ti sembra il più adatto:
 
 
@@ -205,32 +205,32 @@ Per lo scopo di questa sezione ci concentreremo su due metodo: BISQ e Vouchers
 | Tempo di inattività          | **Alto**  | Basso      | Basso          | Basso         |
 
 
-| Opzione| Utente Ideale             | Fattori positivi     | Fattori Negativi     | 
-| ------ | ------------------------- | -------------------- | -------------------- |
-| A      | Principiante non tecnico  | Gratuito, facile e veloce | Quando il tuo computer sarà spento il nodo non sarà in funzione, quindi, quando vorrete usarlo, dovrete aspettare che si sincronizzi.|
-| B     | Technical Enthusiast       | Gratuito             | Requires significant time to setup & is technologically difficult if you have not used linux before.|
-| C     | Less Technical Enthusiast | Reasonably low cost & quick | Requires some time to setup though typically guides specify hardware making setup as simple as following instructions precisely. |
-| D     | Anyone who can comfortably afford this option | Quick and Easy | High cost compared to alternatives |
+| Opzione | Utente Ideale             | Fattori positivi     | Fattori Negativi     | 
+| ---     | ---                       | ---                  | ---                  |
+| A       | Principiante non tecnico  | Gratuito, facile e veloce | Quando il tuo computer sarà spento il nodo non sarà in funzione, quindi, quando vorrete usarlo, dovrete aspettare che si sincronizzi.|
+| B       | Appassionato tecnico      | Gratuito             | Richiede un tempo significativo per l'installazione ed è tecnologicamente difficile se non si è mai usato linux prima.|
+| C       | Appassionato meno tecnico | Costo ragionevolmente basso e veloce | Richiede un po' di tempo per l'installazione, anche se in genere le guide specificano l'hardware rendendo l'installazione semplice come segue le istruzioni precise. |
+| D      | Chiunque possa permettersi comodamente questa opzione | Veloce e facile | Costo elevato rispetto alle alternative |
 
-### Route A: Bitcoin-Core on your day to day computer
-- Download <a href="https://github.com/lightning-power-users/node-launcher/releases" target="_blank">NodeLauncher</a>, a simple program to help you intstall bitcoin core.
+### Opzione A: Bitcoin-Core sul tuo computer di tutti i giorni
+- Download <a href="https://github.com/lightning-power-users/node-launcher/releases" target="_blank">NodeLauncher</a>, un semplice programma che ti aiuterà ad installare bitcoin core.
 
-### Route B: Bitcoin-core on an available always-on computer
-- Video Tutorial: <a href="https://www.youtube.com/watch?v=0Zq_JdExHkE&list=PLmoQ11MXEmagwLs0NtjadkyVwc-CFfr4h" target="_blank">Install Linux</a> & <a href="https://www.youtube.com/watch?v=q0Uen8p4feM&list=PLmoQ11MXEmag9I2ibHnubzJdjDqypujCk" target="_blank">Install Core</a>
-- Written Tutorial <a href="https://medium.com/hackernoon/a-complete-beginners-guide-to-installing-a-bitcoin-full-node-on-linux-2018-edition-cb8e384479ea" target="_blank">Option 1 </a> / <a href="https://github.com/k3tan172/ubuntu-node-box/" target="_blank">Option 2</a>
+### Opzione B: Bitcoin-core su un computer sempre acceso
+- Video Tutorial: <a href="https://www.youtube.com/watch?v=0Zq_JdExHkE&list=PLmoQ11MXEmagwLs0NtjadkyVwc-CFfr4h" target="_blank">Install Linux</a> e <a href="https://www.youtube.com/watch?v=q0Uen8p4feM&list=PLmoQ11MXEmag9I2ibHnubzJdjDqypujCk" target="_blank">Install Core</a>
+- Tutorial Scritto <a href="https://medium.com/hackernoon/a-complete-beginners-guide-to-installing-a-bitcoin-full-node-on-linux-2018-edition-cb8e384479ea" target="_blank">Opzione 1 </a> / <a href="https://github.com/k3tan172/ubuntu-node-box/" target="_blank">Opzione 2</a>
 
-### Route C: Build a standalone node
-- Enthusiasts who want to control their own bitcoin full stack: <a href="http://mynodebtc.com/" target="_blank">MyNodeBTC</a>
-- Samourai Wallet Users: <a href="https://bitcoin-on-raspberry-pi-4.gitbook.io/" target="_blank">DOJO</a>
-- Other Options: <a href="https://stadicus.github.io/RaspiBolt/" target="_blank">RaspiBolt</a> / <a href="https://github.com/rootzoll/raspiblitz" target="_blank">RaspiBlitz</a>
+### Opzione C: Costruire un nodo a sé stante
+- Appassionati che vogliono controllare il proprio bitcoin full stack: <a href="http://mynodebtc.com/" target="_blank">MyNodeBTC</a>
+- Utenti Samourai Wallet: <a href="https://bitcoin-on-raspberry-pi-4.gitbook.io/" target="_blank">DOJO</a>
+- Altre Opzioni: <a href="https://stadicus.github.io/RaspiBolt/" target="_blank">RaspiBolt</a> / <a href="https://github.com/rootzoll/raspiblitz" target="_blank">RaspiBlitz</a>
 
-### Route D: Buy a pre-built standalone node
-- Price sensitive enthusiasts who want to control their own bitcoin full stack: <a href="http://mynodebtc.com/products/one" target="_blank">MyNodeBTC</a> / <a href="https://raspiblitz.com/" target="_blank">Raspiblitz</a> (<a href="https://shop.fulmo.org/" target="_blank">EU</a> / <a href="https://lightninginabox.co/product/raspiblitz-raspberry-pi-lightning-node/" target="_blank">USA </a>)
-- Enthusiasts who want high performance: <a href="https://www.nodl.it/" target="_blank">NODL</a> / <a href="https://shop.nodl.it/en/home/38-nodl-samourai-edition.html" target="_blank">NODL Samourai</a>
+### Opzione D: Comprare un nodo a sé stante già costruito
+- Appassionati sensibili al prezzo che vogliono controllare il proprio bitcoin full stack: <a href="http://mynodebtc.com/products/one" target="_blank">MyNodeBTC</a> / <a href="https://raspiblitz.com/" target="_blank">Raspiblitz</a> (<a href="https://shop.fulmo.org/" target="_blank">EU</a> / <a href="https://lightninginabox.co/product/raspiblitz-raspberry-pi-lightning-node/" target="_blank">USA </a>)
+- Appassionati che vogliono prestazioni elevate: <a href="https://www.nodl.it/" target="_blank">NODL</a> / <a href="https://shop.nodl.it/en/home/38-nodl-samourai-edition.html" target="_blank">NODL Samourai</a>
 
 
 ## 3.3 - MicroPagamenti Bitcoin: Lightning Network
-*Obbiettivo: Capire cos'è Lightning Network e come poterla usare.*
+> **OBIETTIVO**: Capire cos'è Lightning Network e come poterla usare.
 
 1. Download a non-custodial bitcoin lightning wallet
 2. Transfer some bitcoin to it (a small amount)
@@ -240,7 +240,7 @@ Per lo scopo di questa sezione ci concentreremo su due metodo: BISQ e Vouchers
 
 
 ## 3.4 - Eventi ed incontri
-*Obbiettivo: Scoprire come partecipare alla community bitcoin.*
+> **OBIETTIVO**: Scoprire come partecipare alla community bitcoin.
 
 1. Attend a <a href="https://bitcoin-only.com/#meetups" target="_blank">local meetup</a>
 2. <a href="https://bitcoinops.org/en/newsletters/" target="_blank">Subscribe</a> to bitcoin op-tech
@@ -252,7 +252,7 @@ Per lo scopo di questa sezione ci concentreremo su due metodo: BISQ e Vouchers
 Sono uno [stregone](#lv-3---stregone) del mondo bitcoin e vorrei sviluppare ulteriormente la mia conoscenza attingendo dalle migliori fonti del sapere
 
 ## 3.5 - Ulteriori approfondimenti [ENG]
-*Obbiettivo: Sviluppare ulteriormente la tua conoscenza di bitcoin*
+> **OBIETTIVO**: Sviluppare ulteriormente la tua conoscenza di bitcoin
 
 ### Listen
 1. <a href="https://youtu.be/Zbm772vF-5M?t=308" target="_blank">The Bitcoin Standard</a>
