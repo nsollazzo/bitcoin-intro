@@ -8,39 +8,39 @@ I principi che segue questa guida sono:
 
 -----
 
-| Step | Descrizione                                    |Progressi|
-| ---- | -----------                                    |----|
-| **LV. 0**| **Studioso**                               |    |
-| 0.1  | Che cos'è Bitcoin?                             |    |
-| 0.2  | Perché usare bitcoin?                          |    |
-| **LV. 1**| **Apprendista**                            |    |
-| 1.1  | Ottenere un Wallet                             |    |
-| 1.2  | Comprare dei bitcoin                           |    |
-| **LV. 2**| **Mago**                                   |    |
-| 2.1  | Un migliore Backup                             |    |
-| 2.2  | Comprare in modo privato                       |    |
-| 2.3  | Bitcoin Privacy                                |    |
-| **LV. 3**| **Stregone**                               |    |
-| 3.1  | Come funziona bitcoin?                         |    |
-| 3.2  | Nodo bitcoin                                   |    |
-| 3.3  | MicroPagamenti Bitcoin: Lightning Network      |    |
-| 3.4  | Eventi ed incontri                             |    |
-| **LV. 4**| **Saggio**                                 |    |
-| 4.1  | Ulteriori approfondimenti [ENG]                |    |
+| Step     | Descrizione                                    | Progressi |
+| -------- | ---------------------------------------------- |  -------- |
+| **LV. 0**| **Studioso**                                   |           |
+| 0.1      | Che cos'è Bitcoin?                             |           |
+| 0.2      | Perché usare bitcoin?                          |           |
+| **LV. 1**| **Apprendista**                                |           |
+| 1.1      | Ottenere un Wallet                             |           |
+| 1.2      | Comprare dei bitcoin                           |           |
+| **LV. 2**| **Mago**                                       |           |
+| 2.1      | Un migliore Backup                             |           |
+| 2.2      | Comprare in modo privato                       |           |
+| 2.3      | Bitcoin Privacy                                |           |
+| **LV. 3**| **Stregone**                                   |           |
+| 3.1      | Come funziona bitcoin?                         |           |
+| 3.2      | Nodo bitcoin                                   |           |
+| 3.3      | MicroPagamenti Bitcoin: Lightning Network      |           |
+| 3.4      | Eventi ed incontri                             |           |
+| **LV. 4**| **Saggio**                                     |           |
+| 4.1      | Ulteriori approfondimenti [ENG]                |           |
 
 -----
 
 # LV. 0 - Studioso
-Conosco poco o niente di Bitcoin e vorrei saperne di più
+> Conosco poco o niente di Bitcoin e vorrei saperne di più
 
 
 
 ## 0.1 - Che cos'è Bitcoin?
-*Obbiettivo: Imparare che cos'è Bitcoin*
+> *Obbiettivo: Imparare che cos'è Bitcoin*
 
 
 ## 0.2 - Perché usare bitcoin?
-*Obbiettivo: Imparare perché bitcoin è utile*
+> *Obbiettivo: Imparare perché bitcoin è utile*
 
 1. Read '<a href="https://medium.com/@wiz/why-bitcoin-359ada12629e" target="_blank">Why Bitcoin</a>' by [Wiz](https://twitter.com/wiz)
 2. Read '<a href="https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1" target="_blank">The Bullish Case for Bitcoin</a>' by [Vijay Boyapati](https://twitter.com/real_vijay)
@@ -49,14 +49,14 @@ Conosco poco o niente di Bitcoin e vorrei saperne di più
 -----
 
 # LV. 1 - Apprendista
-Sono uno [studioso](#lv-0---studioso) del mondo di bitcoin ed ora vorrei iniziare ad usarlo
+> Sono uno [studioso](#lv-0---studioso) del mondo di bitcoin ed ora vorrei iniziare ad usarlo
 
 
 
 ## 1.1 - Ottenere un Wallet
-*Obbiettivo: Ottenere un portafoglio dove tenere i Bitcoin ed imparare ad utilizzarlo.*
+> *Obbiettivo: Ottenere un portafoglio dove tenere i Bitcoin ed imparare ad utilizzarlo.*
 
-> **ATTENZIONE**
+> **ATTENZIONE**:
 > La fonte dei contenuti e delle immagini di questa sezione è la <a href="https://docs.blockstream.com/green/getting-started/getting-started-index.html" target="_blank">documentazione ufficiale</a> di <a href="https://blockstream.com/green/" target="_blank">Blockstream Green wallet</a>
 
 Il portafoglio che andremo ad utilizzare si chiama <a href="https://blockstream.com/green/" target="_blank">Blockstream Green wallet</a> ed è possibile scaricarlo sia per <a href="https://blockstream.green/android" target="_blank">Android</a> che per <a href="https://blockstream.green/ios" target="_blank">IOS</a>.
@@ -73,7 +73,7 @@ A questo punto, l'app genererà un mnemonico di 24 parole per funzionare come me
   <img src="https://docs.blockstream.com/_images/menmonic-warning.png" width="250" />
 </p>
 
-> **ATTENZIONE**
+> **ATTENZIONE**:
 > Il tuo mnemonico è l'informazione più importante associata al tuo portafoglio.
 > Devi scriverlo in un posto sicuro e segreto - è il tuo backup.
 
@@ -107,12 +107,12 @@ Una volta che qualcuno ha inviato una transazione al tuo Blockstream Green walle
 </details> 
 
 ## 1.2 - Comprare dei bitcoin
-*Obbiettivo: Comprare una piccola quantità di bitcoin.*
+> *Obbiettivo: Comprare una piccola quantità di bitcoin.*
 
-> **ATTENZIONE**
+> **ATTENZIONE**:
 > Per iniziare si consiglia di comprare solo una piccola quantità di bitcoin.
 > Il metodo che tra poco verrà mostrato ti permetterà di comprare bitcoin velocemente ma ridurrà la tua privacy.
-> Per comprare bitcoin in modo privato verranno inlustrati metodi alternativi nella sezione <a href="#22---comprare-in-modo-privato">2.2</a>.
+> Per comprare bitcoin in modo privato verranno inlustrati metodi alternativi nella [sezione 2.2](#22---comprare-in-modo-privato).
 
 Il metodo migliore per comprare bitcoin nell'Unione Europea è tramite <a href="https://getbittr.com/" target="_blank">Bittr</a>: Bittr ha delle fee dello **1.5%** ed è possibile leggere delle recensioni del servizio offerto, in inglese, su <a href="https://www.trustpilot.com/review/getbittr.com" target="_blank">Trustpilot</a>.
 
@@ -129,49 +129,46 @@ Fintanto che terrai quelle 24 parole al sicuro, nessuno potrà rubarti i tuoi bi
 -----
 
 # LV. 2 - Mago
-Sono un [apprendista](#lv-1---apprendista) del mondo di bitcoin ed ora vorrei sapere come migliorare la mia privacy e salvaguardarmi meglio
+> Sono un [apprendista](#lv-1---apprendista) del mondo di bitcoin ed ora vorrei sapere come migliorare la mia privacy e salvaguardarmi meglio
 
 
 
 ## 2.1 - Un migliore Backup
-*Obbiettivo: Migliorare il tuo sistema di backup in modo da essere pronto quando il valore di bitcoin aumenterà o deciderai di comprarne di più.*
+> *Obbiettivo: Migliorare il tuo sistema di backup in modo da essere pronto quando il valore di bitcoin aumenterà o deciderai di comprarne di più.*
 
 1. Read the <a href="https://github.com/6102bitcoin/FAQ/blob/master/seed.md" target="_blank">Seed FAQ</a>
 2. Pick a setup (e.g. Two full backups, one on paper one on stamped metal)
 3. Implement your selected setup
 
 ## 2.2 - Comprare in modo privato
-Though the methods explained in Step 2 are simple and easy for buying your first bitcoin it is worth considering more private options for further buying.
-
+Anche se i metodi spiegati nella [sezione 1.2](#12---comprare-dei-bitcoin) sono semplici e facili per comprare i tuoi primi bitcoin, vale la pena considerare metodi che garantiscono una maggiore privacy per i futuri acquisti.
 
 ### Overview table
+| Metodo di Pagamento | Privacy      | Interfaccia | Email/Telefono    | Nome/Indirizzo    | Esempi          |
+| ------------------- | ------------ | ----------- | ----------------- | ----------------- | --------------- |
+| Contanti            | Privato      | Di persona  | **Non richiesto** | **Non richiesto** | BISQ / Vouchers |
+| Bonifico            | Semi-privato | Sito Web    | Richiesto         | **Non richiesto** | Bittr           |
+| Carta di debito     | Non-privato  | Sito Web    | Richiesto         | Richiesto         | Coinbase        |
 
-|                       | Private Methods       | Semi-Private Methods  | Non-Private Methods   |
-| ---                   | ---                   | ---                   | ---                   |
-| Method of Payment     | Cash                  | Bank Transfer         | Debit Card            |
-| Interface             | In person             | Website               | Website               |
-| Email & Phone         | **Not Required**      | Required              | Required              |
-| Name & Address        | **Not Required**      | **Not Required**      | Required              |
-| Relative Privacy      | **Great**             | Fair                  | Fair                  |
-| Examples              | BISQ / Vouchers | Bittr          | CashApp / Bull Bitcoin |
+Per lo scopo di questa sezione ci concentreremo su due metodo: BISQ e Vouchers
 
 #### BISQ
-0. <a href="https://bisq.network/downloads/Download" target="_blank">Download</a> & Install BISQ
-1. Set local currency
-2. Look for local sellers (Select BUY BTC button on top ribbon )
-3. Buy from local seller (Select Create new offer to buy BTC with ... )
-4. Withdraw bitcoin to bitcoin address from Step 1.
+0. <a href="https://bisq.network/downloads/Download" target="_blank">Scarica</a> e installa BISQ
+1. Imposta Euro
+2. Cerca venditori vicino a te (seleziona `BUY BTC` in alto a sinistra)
+3. Compra da venditori locali (selezione `CREATE A NEW OFFER TO BUY BTC WITH EUR`)
+4. Ritira i tuoi bitcoin sul tuo indirizzo bitcoin ([sezione 1.1](#11---ottenere-un-wallet)
 
-*Note: As stated when installing BISQ, the user is responsible for using the software in compliance with local laws.*
+> **NOTA**: Come indicato al momento dell'installazione di BISQ, l'utente è responsabile dell'utilizzo del software in conformità alle leggi locali.
 
 #### Vouchers
-0.  Check whether there are any merchants near you who sell vouchers on <a href="https://azte.co/vendors.html" target="_blank">Azteco</a> or <a href="https://fastbitcoins.com/#locations" target="_blank">FastBitcoins</a>
-1.  If there aren't any local voucher vendors check out the below options. If there are, buy the minimum voucher denomination and follow the voucher instructions to redeem the bitcoin to your own wallet.
-2.  When prompted, paste your first bitcoin address from Step 1.
+0. Controlla se ci sono commercianti vicino a te che vendono vouchers su <a href="https://azte.co/vendors.html" target="_blank">Azteco</a> o <a href="https://fastbitcoins.com/#locations" target="_blank">FastBitcoins</a>
+1. Se ce ne sono, acquista il taglio minimo del buono e segui le istruzioni del buono per riscattare il bitcoin nel tuo portafoglio.
+2. Ritira i tuoi bitcoin sul tuo indirizzo bitcoin ([sezione 1.1](#11---ottenere-un-wallet)
 
 
 ## 2.3 - Bitcoin privacy
-*Obbiettivo: Capire come e perché usare bitcoin in modo privato.*
+> *Obbiettivo: Capire come e perché usare bitcoin in modo privato.*
 
 1. Read how to <a href="https://github.com/6102bitcoin/FAQ/blob/master/hodl-privacy.md" target="_blank">Hodl Privately</a>
 2. Learn about <a href="https://github.com/6102bitcoin/CoinJoin-Research/blob/master/CoinJoin_Research/CoinJoin_FAQ.md" target="_blank">CoinJoin</a>
@@ -179,40 +176,41 @@ Though the methods explained in Step 2 are simple and easy for buying your first
 -----
 
 # LV. 3 - Stregone
-Sono un [mago](#lv-2---mago) del mondo bitcoin ed ora vorrei imparare tecnicismi, aiutare e partecipare nella community
+> Sono un [mago](#lv-2---mago) del mondo bitcoin ed ora vorrei imparare tecnicismi, aiutare e partecipare nella community
 
 
 
 ## 3.1 - Come funziona bitcoin?
-*Obbiettivo: Capire meglio come funziona bitcoin e la sua terminologia.*
+> *Obbiettivo: Capire meglio come funziona bitcoin e la sua terminologia.*
 
 1. Watch <a href="https://www.youtube-nocookie.com/embed/bBC-nXj3Ng4" target="_blank">But How does bitcoin actually work</a>
 2. Watch <a href="https://www.youtube-nocookie.com/embed/Lx9zgZCMqXE" target="_blank">How Bitcoin Works Under the Hood</a>
 
 
 # 3.2 - Nodo Bitcoin
-*Obbliettivo: Capire come e perché avere un proprio full-node bitcoin.*
+> *Obbliettivo: Capire come e perché avere un proprio full-node bitcoin.*
 
-Note: Running a node only benefits you if you use your node to send and receive transactions.
+> **NOTA**: Avere un nodo bitcoin ti porta beneficio se lo usi per inviare e ricevere transazioni.
+> Non usarlo aiuterà a salvare la blockchain su un device in più ma non ti porterà diretti benefici.
 
 1. Watch <a href="https://www.youtube-nocookie.com/embed/D11R0W2uxeM" target="_blank">Benefits of a Full Node</a>
-2. Evaluate below tables to determine which route seems most suitable given:
+2. Valutare le tabelle sottostanti per determinare quale opzione ti sembra il più adatto:
 
 
-|                       | Route A       | Route B       | Route C       | Route D       |  
-| --                    | --            | --            | --            | --            |
-| Cost                  | Zero          | Zero          | Low           | **High**      |
-| Time Requirement      | Low           | **High**      | **Mid/High**  | Low           |
-| Setup Difficulty      | Low           | **High**      | Mid           | Low           |
-| Downtime              | **High**      | Low           | Low           | Low           |
+|                              | Opzione A | Opzione B  | Opzione C      | Opzione D     |  
+| ---                          | ---       | ---        | ---            | ---           |
+| Costo                        | Zero      | Zero       | Basso          | **Alto**      |
+| Tempo richiesto              | Basso     | **Alto**   | **Medio/alto** | Basso         |
+| Difficoltà di configurazione | Basso     | **Alto**   | Medio          | Basso         |
+| Tempo di inattività          | **Alto**  | Basso      | Basso          | Basso         |
 
 
-| Route | Ideal User | Positives     | Negatives     | 
-| --            | --            | --    | -- |
-| A | Non-technical Beginner | Free, Easy and Quick | When your computer is off your node will not be running so when you do want to use it you will have to wait for it to sync.|
-| B | Technical Enthusiast | Free | Requires significant time to setup & is technologically difficult if you have not used linux before.|
-| C | Less Technical Enthusiast | Reasonably low cost & quick | Requires some time to setup though typically guides specify hardware making setup as simple as following instructions precisely. |
-| D | Anyone who can comfortably afford this option | Quick and Easy | High cost compared to alternatives |
+| Opzione| Utente Ideale             | Fattori positivi     | Fattori Negativi     | 
+| ------ | ------------------------- | -------------------- | -------------------- |
+| A      | Principiante non tecnico  | Gratuito, facile e veloce | Quando il tuo computer sarà spento il nodo non sarà in funzione, quindi, quando vorrete usarlo, dovrete aspettare che si sincronizzi.|
+| B     | Technical Enthusiast       | Gratuito             | Requires significant time to setup & is technologically difficult if you have not used linux before.|
+| C     | Less Technical Enthusiast | Reasonably low cost & quick | Requires some time to setup though typically guides specify hardware making setup as simple as following instructions precisely. |
+| D     | Anyone who can comfortably afford this option | Quick and Easy | High cost compared to alternatives |
 
 ### Route A: Bitcoin-Core on your day to day computer
 - Download <a href="https://github.com/lightning-power-users/node-launcher/releases" target="_blank">NodeLauncher</a>, a simple program to help you intstall bitcoin core.
