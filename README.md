@@ -20,13 +20,13 @@ I principi che segue questa guida sono:
 | 2.1      | Un migliore Backup                             |           |
 | 2.2      | Comprare in modo privato                       |           |
 | 2.3      | Bitcoin Privacy                                |           |
-| **LV. 3**| **Stregone**                                   |           |
+| **LV. 3**| **Stregone [ITA-ENG]**                                   |           |
 | 3.1      | Come funziona bitcoin?                         |           |
 | 3.2      | Nodo bitcoin                                   |           |
 | 3.3      | MicroPagamenti Bitcoin: Lightning Network      |           |
 | 3.4      | Eventi ed incontri                             |           |
-| **LV. 4**| **Saggio**                                     |           |
-| 4.1      | Ulteriori approfondimenti [ENG]                |           |
+| **LV. 4**| **Saggio [ENG]**                                     |           |
+| 4.1      | Ulteriori approfondimenti                      |           |
 
 -----
 
@@ -128,7 +128,7 @@ Fintanto che terrai quelle 24 parole al sicuro, nessuno potrà rubarti i tuoi bi
 
 -----
 
-# LV. 2 - Mago
+# LV. 2 - Mago 
 > Sono un [apprendista](#lv-1---apprendista) del mondo di bitcoin ed ora vorrei sapere come migliorare la mia privacy e salvaguardarmi meglio
 
 
@@ -158,7 +158,7 @@ Per lo scopo di questa sezione ci concentreremo su due metodo: BISQ e Vouchers
 1. Imposta Euro
 2. Cerca venditori vicino a te (seleziona `BUY BTC` in alto a sinistra)
 3. Compra da venditori locali (selezione `CREATE A NEW OFFER TO BUY BTC WITH EUR`)
-4. Ritira i tuoi bitcoin sul tuo indirizzo bitcoin ([sezione 1.1](#11---ottenere-un-wallet)
+4. Ritira i tuoi bitcoin sul tuo indirizzo bitcoin ([sezione 1.1](#11---ottenere-un-wallet))
 
 > **NOTA**: Come indicato al momento dell'installazione di BISQ, l'utente è responsabile dell'utilizzo del software in conformità alle leggi locali.
 
@@ -176,7 +176,7 @@ Per lo scopo di questa sezione ci concentreremo su due metodo: BISQ e Vouchers
 
 -----
 
-# LV. 3 - Stregone
+# LV. 3 - Stregone [ITA-ENG]
 > Sono un [mago](#lv-2---mago) del mondo bitcoin ed ora vorrei imparare tecnicismi, aiutare e partecipare nella community
 
 
@@ -240,19 +240,32 @@ Per lo scopo di questa sezione ci concentreremo su due metodo: BISQ e Vouchers
 5. Read <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/QA%20bitcoin-159-165.pdf" target="_blank">LNP/BP</a> as compared to TCP/IP (extract from <a href="https://twitter.com/QAaboutBitcoin" target="_blank">Q/A About Bitcoin</a>).
 
 
-## 3.4 - Eventi ed incontri
+## 3.4 - Community
 > **OBIETTIVO**: Scoprire come partecipare alla community bitcoin.
 
-1. Attend a <a href="https://bitcoin-only.com/#meetups" target="_blank">local meetup</a>
-2. <a href="https://bitcoinops.org/en/newsletters/" target="_blank">Subscribe</a> to bitcoin op-tech
-3. Join Twitter and follow bitcoiners you come across.
+Ecco un elenco di alcuni gruppi ed eventi organizzati dalla community italiana di bitcoin
+
+### Gruppi
+#### Telegram
+* [Bitcoin Italia](https://t.me/bitcoinIta) [2.7k+ membri]
+* [Bitcoin: Tax & Law Italia](http://t.me/joinchat/A887ID6t77v2RcjCuuFwfg) [2.7k+ membri]
+* [Bitcoin Milano](https://t.me/BitcoinMilan) [200+ membri]
+* [Bitcoin - Fiat & Alt Trading](https://t.me/cryptotradingitalia) [900+ membri]
+* [Bitcoin e gambling (Poker / scommesse)](https://telegram.me/joinchat/AAR0rz3LDH4tIKNJ52ubjg) [100+ membri]
+* [Bitcoin: IQ, Tech, Econ & Politics](https://t.me/Bitcoin_e_politica) [100+ membri]
+* [Hardware & Software (no mining)](https://t.me/ItalyBitcoinHWandSW) [150+ membri]
+* [BW Arbitrage & Cryptoexchange](http://t.me/ArbitrageCryptoExchangeITA) [770+ membri]
+* [Bitcoin Gateways](https://t.me/bitcoinIta_Gateways) [570+ membri]
+* [Bitcoin e Servizi di Pagamento (carte & conti)](https://t.me/Bitcoineservizidipagamento) [1.1k+ membri]
+* [Bitcoin Dev Italia](https://t.me/bitcoindevitalia) [270+ membri]
+* [Liquid Italia (Bitcoin sidechain)](https://t.me/liquid_ita) [30+ membri]
 
 -----
 
-# LV. 4 - Saggio
-Sono uno [stregone](#lv-3---stregone) del mondo bitcoin e vorrei sviluppare ulteriormente la mia conoscenza attingendo dalle migliori fonti del sapere
+# LV. 4 - Saggio [ENG]
+Sono uno [stregone](#lv-3---stregone-[ita-eng]) del mondo bitcoin e vorrei sviluppare ulteriormente la mia conoscenza attingendo dalle migliori fonti del sapere
 
-## 3.5 - Ulteriori approfondimenti [ENG]
+## 3.5 - Ulteriori approfondimenti
 > **OBIETTIVO**: Sviluppare ulteriormente la tua conoscenza di bitcoin
 
 ### Listen
