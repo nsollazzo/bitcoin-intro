@@ -144,6 +144,7 @@ Fintanto che terrai quelle 24 parole al sicuro, nessuno potrà rubarti i tuoi bi
 Anche se i metodi spiegati nella [sezione 1.2](#12---comprare-dei-bitcoin) sono semplici e facili per comprare i tuoi primi bitcoin, vale la pena considerare metodi che garantiscono una maggiore privacy per i futuri acquisti.
 
 ### Overview table
+
 | Metodo di Pagamento | Privacy      | Interfaccia | Email/Telefono    | Nome/Indirizzo    | Esempi          |
 | ---                 | ---          | ---         | ---               | ---               | ---             |
 | Contanti            | Privato      | Di persona  | **Non richiesto** | **Non richiesto** | BISQ / Vouchers |
