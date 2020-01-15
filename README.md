@@ -11,7 +11,7 @@ I principi che segue questa guida sono:
 | Step     | Descrizione                                    | Progressi |
 | -------- | ---------------------------------------------- |  -------- |
 | **LV. 0**| **Studioso**                                   |           |
-| 0.1      | Che cos'è Bitcoin?                             |           |
+| 0.1      | Che cos'è bitcoin?                             |           |
 | 0.2      | Perché usare bitcoin?                          |           |
 | **LV. 1**| **Apprendista**                                |           |
 | 1.1      | Ottenere un Wallet                             |           |
@@ -33,11 +33,26 @@ I principi che segue questa guida sono:
 # LV. 0 - Studioso
 > Conosco poco o niente di Bitcoin e vorrei saperne di più
 
+## 0.1 - Che cos'è bitcoin?
+> fonte: [Alla scoperta di Bitcoin con Ferdinando Ametrano](https://sollazzo.one/2019-01-07-alla-scoperta-di-bitcoin/)
 
+**bitcoin** è una **moneta digitale e decentralizzata** – cioè senza nessun governo o organizzazione alle sue spalle – non si basa su una terza parte fiduciaria, permette transazioni tra due parti (**peer-to-peer**) in maniera istantanea e crittograficamente sicura.
 
-## 0.1 - Che cos'è Bitcoin?
-> *Obbiettivo: Imparare che cos'è Bitcoin*
+Bitcoin rappresenta potenzialmente una **efficiente banca low-cost per tutti ovunque essi siano**, a patto di possedere un dispositivo elettronico connesso alla rete internet, garantendo allo stesso tempo un alto livello di privacy.
 
+### Come funziona Bitcoin?
+Per inviare dei bitcoin, bisogna conoscere l’**indirizzo** del portafoglio della persona alla quale lo si vuole mandare: un po’ come quando si vuole fare un bonifico bancario a qualcuno ed è necessario conoscere l’IBAN dell’altra persona.
+
+La transazione viene successivamente distribuita a tutti i nodi della rete e, alcuni nodi speciali, chiamati **miners**, si occuperanno di convalidare questa transazione, accertandosi, per esempio, che i bitcoin che Alice sta inviando a Bob non siano stati precedentemente già spesi (risoluzione del *problema della doppia spesa*).
+
+Una volta convalidata la transazione, essa verrà aggiunta ad un **blocco** – ovvero un insieme di transazioni – che verrà successivamente aggiunto in coda agli altri blocchi presenti sulla **Blockchain**.
+
+I miners verranno poi ricompensati per il lavoro svolto con dei bitcoin. Attualmente il **block reward** è di **12.5BTC** e questa quantità si dimezza ogni **210,000 blocchi()** ovvero, **circa 4 anni**.
+
+### Che cos’è la Blockchain?
+La **Blockchain** può essere pensata come un **registro contabile distribuito** tra tutti i partecipanti della rete, dove tutti possono controllare e verificare le transazioni di tutti.
+
+Da un punto di vista più tecnico, la Blockchain è una **struttura dati, sequenziale ed append-only**, cioè,un nuovo blocco può essere solo agganciato in coda alla catene e cambiare un blocco nel mezzo della catena è estremamente inefficiente poiché comporta la riscrittura di tutti i blocchi successivi.
 
 ## 0.2 - Perché usare bitcoin?
 > *Obbiettivo: Imparare perché bitcoin è utile*
@@ -50,8 +65,6 @@ I principi che segue questa guida sono:
 
 # LV. 1 - Apprendista
 > Sono uno [studioso](#lv-0---studioso) del mondo di bitcoin ed ora vorrei iniziare ad usarlo
-
-
 
 ## 1.1 - Ottenere un Wallet
 > **OBIETTIVO**: Ottenere un portafoglio dove tenere i Bitcoin ed imparare ad utilizzarlo.
