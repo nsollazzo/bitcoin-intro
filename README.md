@@ -263,7 +263,7 @@ Ecco un elenco di alcuni gruppi ed eventi organizzati dalla community italiana d
 -----
 
 # LV. 4 - Saggio [ENG]
-Sono uno [stregone](#lv-3---stregone-[ita-eng]) del mondo bitcoin e vorrei sviluppare ulteriormente la mia conoscenza attingendo dalle migliori fonti del sapere
+Sono uno [stregone](#lv-3---stregone-ita-eng) del mondo bitcoin e vorrei sviluppare ulteriormente la mia conoscenza attingendo dalle migliori fonti del sapere
 
 ## 3.5 - Ulteriori approfondimenti
 > **OBIETTIVO**: Sviluppare ulteriormente la tua conoscenza di bitcoin
