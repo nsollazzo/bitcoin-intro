@@ -43,6 +43,8 @@ Bitcoin rappresenta potenzialmente una **efficiente banca low-cost per tutti ovu
 ## 0.2 - Perché usare bitcoin?
 > *Obbiettivo: Imparare perché bitcoin è utile*
 
+Se avete appena iniziato a lavorare con Bitcoin, potreste chiedervi quali sono i benefici. Ecco le ragioni più popolari per cui la gente sceglie di usare i bitcoin:
+
 1. Read '<a href="https://medium.com/@wiz/why-bitcoin-359ada12629e" target="_blank">Why Bitcoin</a>' by [Wiz](https://twitter.com/wiz)
 2. Read '<a href="https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1" target="_blank">The Bullish Case for Bitcoin</a>' by [Vijay Boyapati](https://twitter.com/real_vijay)
 3. Watch '<a href="https://youtu.be/q0XxsabgJEI?t=31" target="_blank">Why Bitcoin Matters</a>' by [Aleks Svetski](https://twitter.com/AleksSvetski)
